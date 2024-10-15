@@ -32,4 +32,8 @@ public class MainActivity2 extends AppCompatActivity {
         it.putExtra("numar2",5);
         startActivity(it);
     }
+
+    public void createUser(View view) {
+
+    }
 }
